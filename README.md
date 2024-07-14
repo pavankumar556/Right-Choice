@@ -1,7 +1,7 @@
-# Right-Choice
+# Right-Choice (RICH)
 Career Guidance web Application PHP 
 
-R IC H is a project which is based on career Guidance. Here, the admin manages all 
+RICH is a project which is based on career Guidance. Here, the admin manages all 
 the center and student activities. A Career Guidance System where students can 
 see career opportunities shows various fields available after 
 the SSLC. Next, the system allows users to give a test. It is a series of tests of 
