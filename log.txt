@@ -1,0 +1,265 @@
+
+2022-08-09  1 -Image successfully Updated
+2022-08-09  1 -login successful student
+2022-08-09  28 -Post successfully Deleted by admin
+2022-08-09  4 -Admin successfully updated the post
+2022-08-09  4 -Job successfully Deleted
+2022-08-09  1 -login successful student
+2022-08-09  1 -login successful student
+2022-08-09  1  Rithesh Jaston  Student  1    -Feedback student
+2022-08-09  1 -login successful student
+2022-08-09  1 -login successful student
+2022-08-09  1 -login successful student
+2022-08-09  ritheshjaston22@gmail.com   9825ada1192c2b67daad895d56131749  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   6a151b3584a08185181294079225eee5  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   6d699226c18b273983d6189b64669c0d  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   2d3a92f6d3b82253a85211baf79a9fd3  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   f611e082a05f5562f1d0d2bbcef2b5bf  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   f611e082a05f5562f1d0d2bbcef2b5bf  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   2d2e086f9e233084bd9e82f57df870af  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   2d2e086f9e233084bd9e82f57df870af  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   2d12b7ea310d7c2e29d45831247cb0a7  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   f611e082a05f5562f1d0d2bbcef2b5bf  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   765b60844ae046902b39042ab98e90fb  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   dfd4a4b8d324d66e28c1c410c9430076  -login unsuccessful student
+2022-08-09  1 -login successful student
+2022-08-09  ritheshjaston22@gmail.com   00dd5c905dc8a2a92fae4d1bd8869924  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   7af3bb61f2386981c3975f46f3461189  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   86db455d5f43ef951c120a8d0f31aba3  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   86db455d5f43ef951c120a8d0f31aba3  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   92f28c48011ca3334b2fb43be2a973b8  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   510d31608ac091782170b677f20ced3e  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   2d12b7ea310d7c2e29d45831247cb0a7  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   da001519f873fe359378732ae5c6d88f  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   274c52fad1858d773001b977fd3c4b64  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   2d5c4132e8a5845234f2779f283483d9  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   2d2e086f9e233084bd9e82f57df870af  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   2d2e086f9e233084bd9e82f57df870af  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   f611e082a05f5562f1d0d2bbcef2b5bf  -login unsuccessful student
+2022-08-09  1 -login successful student
+2022-08-09  ritheshjaston22@gmail.com   6a151b3584a08185181294079225eee5  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   865758f55f063c6c921fb8ad4ad4f551  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   270d3ca5c8b6d3593daf53ee2cad7900  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   30cb8988b25595232cf1a2a8646360df  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   92f28c48011ca3334b2fb43be2a973b8  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   6d699226c18b273983d6189b64669c0d  -login unsuccessful student
+2022-08-09  ritheshjaston22@gmail.com   05113cfc136b63aa5969aa6e85004b75  -login unsuccessful student
+2022-08-10  Rithesh Jaston DSa  rithesh@gmail.com  Contact  DellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDellDell    -Contact student
+2022-08-10  ritheshjaston22@gmail.com   2964ae8def9033911f7b9f4ec66b3b7e  -login unsuccessful student
+2022-08-10  ritheshjaston22@gmail.com   f611e082a05f5562f1d0d2bbcef2b5bf  -login unsuccessful student
+2022-08-10  ritheshjaston22@gmail.com   2d2e086f9e233084bd9e82f57df870af  -login unsuccessful student
+2022-08-10  1 -login successful student
+2022-08-10  1 -Image successfully Updated
+2022-08-10  1 -login successful student
+2022-08-10  1 -login successful student
+2022-08-10  1 -Admin successfully Logined
+2022-08-10  1 -Admin successfully Logined
+2022-08-10  12 -Job successfully Deleted
+2022-08-10  11 -Job successfully Deleted
+2022-08-10  13 -Job successfully Deleted
+2022-08-10  14 -Job successfully Deleted
+2022-08-10  15 -Job successfully Deleted
+2022-08-10  10 -Job successfully Deleted
+2022-08-10  16 -Job successfully Deleted
+2022-08-10  17 -Job successfully Deleted
+2022-08-10  18 -Job successfully Deleted
+2022-08-10  19 -Job successfully Deleted
+2022-08-10  1 -Centre uccessfully logged in
+2022-08-10  1 -login successful student
+2022-08-10  1 -Student Test successful 
+2022-08-10  2 -Student Test successful 
+2022-08-10  23  2   1 -Request successful student
+2022-08-10  25  1 -Request successful student
+2022-08-10  1 -login successful student
+2022-08-10  1 -Centre uccessfully logged in
+2022-08-10  1  Commerce  SVS college bantwal  3.yr    -Centre added the Post
+2022-08-10  1  Commerce  SVS college bantwal  2.yr    -Centre added the Post
+2022-08-10  30 -Delete Post of the Centre
+2022-08-10  rithesh@gmail.com -New centre added
+2022-08-10  1 -Centre uccessfully logged in
+2022-08-10  Shailesh Kumar  shaileshkumar045@gmail.com -Signup successful student
+2022-08-10  14 -login successful student
+2022-08-10  14 -Image successfully Updated
+2022-08-10  svsclg@gmail.com -New centre added
+2022-08-10  svsclg@gmail.com -New centre added
+2022-08-10  svsclg@gmail.com -New centre added
+2022-08-10  1 -Admin successfully Logined
+2022-08-10  14 -Centre uccessfully logged in
+2022-08-10  14  Arts  SVS college bantwal  3.yr    -Centre added the Post
+2022-08-10  31 -Centre Post updated
+2022-08-10  14  Commerce  SVS college bantwal  3.yr    -Centre added the Post
+2022-08-10  14  Science  SVS college bantwal  2.yr    -Centre added the Post
+2022-08-10  32 -Centre Post updated
+2022-08-10  31 -Centre Post updated
+2022-08-10  14  Diploma  SVS college bantwal  3.yr    -Centre added the Post
+2022-08-10  14  ITI  SVS college bantwal  6 Months    -Centre added the Post
+2022-08-10  1 -Admin successfully Logined
+2022-08-10  1 -login successful student
+2022-08-10  20 -Admin successfully updated the post
+2022-08-10  20 -Admin successfully updated the post
+2022-08-10  20 -Admin successfully updated the post
+2022-08-10  20 -Admin successfully updated the post
+2022-08-10  20 -Admin successfully updated the post
+2022-08-10  20 -Admin successfully updated the post
+2022-08-10  1  Rithesh Jaston  Student  1    -Feedback student
+2022-08-10  1 -login successful student
+2022-08-10  1 -Admin successfully Logined
+2022-08-10  59 -Admin successfully Updated Apti test qution
+2022-08-10  33  1 -Request successful student
+2022-08-10  14 -Centre uccessfully logged in
+2022-08-10  34  33,  Approved  100,    -Centre approoves request of the student
+2022-08-10  32  1 -Request successful student
+2022-08-10  35  32,  Approved  100,    -Centre approoves request of the student
+2022-08-11  ritheshjaston22@gmail.com  10722d29c4dbe354a97640b59912c8f3  1    -Forgot  student
+2022-08-11  1 -login successful student
+2022-08-11  1 -Admin successfully Logined
+2022-08-11  14 -Centre uccessfully logged in
+2022-08-11  Rithesh Jaston DSa  rithesh@gmail.com  Contact  Rj contacting Here Rj contacting Here Rj contacting Here Rj contacting Here Rj contacting Here Rj contacting Here Rj contacting Here Rj contacting Here Rj contacting Here Rj contacting Here    -Contact student
+2022-08-11  1 -Admin successfully Logined
+2022-08-11  Which of the following is a ferrous alloy?  Cast steel  All of the above  Brass  Which of the following is a ferrous alloy?  Aluminum alloys -Test Question successfully added by student
+2022-08-11  Copper when alloyed with zinc is known as  Brass  Bronze  All of the above  Copper when alloyed with zinc is known as  Babbits -Test Question successfully added by student
+2022-08-11  Which body transmits force with negligible deformation?  Resistant body  Elastic body  Deforming body  Which body transmits force with negligible deformation?  All of the above -Test Question successfully added by student
+2022-08-11  What is the primary function of mechanism?  Motion transmission  Power transmission  Power absorption  What is the primary function of mechanism?  Force transmission -Test Question successfully added by student
+2022-08-11  The radiation pyrometers work on the principle of ______  Stefan Boltzmann’s law  Newton’s law  Zeroth law  The radiation pyrometers work on the principle of ______  None of the above -Test Question successfully added by student
+2022-08-11  78 -Admin successfully Updated Apti test qution
+2022-08-11  14 -Centre uccessfully logged in
+2022-08-11  The radiation pyrometers work on the principle of ______  centre  34  Stefan Boltzmann’s law    -Centre added the Test question to the Post
+2022-08-11  Casting replica used to make the cavity is called as  centre  34  Pattern    -Centre added the Test question to the Post
+2022-08-11  What is the primary function of mechanism?  centre  34  Motion transmission    -Centre added the Test question to the Post
+2022-08-11  Which body transmits force with negligible deformation?  centre  34  Resistant body    -Centre added the Test question to the Post
+2022-08-11  Which body transmits force with negligible deformation?  centre  34  Resistant body    -Centre added the Test question to the Post
+2022-08-11  Copper when alloyed with zinc is known as  centre  34  Brass    -Centre added the Test question to the Post
+2022-08-11  Which of the following is a ferrous alloy?  centre  34  Cast steel    -Centre added the Test question to the Post
+2022-08-11  Which of the following is a ferrous alloy?  centre  34  Cast steel    -Centre added the Test question to the Post
+2022-08-11  Which of the following is a ferrous alloy?  centre  34  Cast steel    -Centre added the Test question to the Post
+2022-08-11  Which of the following is a ferrous alloy?  centre  34  Cast steel    -Centre added the Test question to the Post
+2022-08-11  121 -Centre Delete the test question
+2022-08-11  Which of the following is a ferrous alloy?  centre  34  Cast steel    -Centre added the Test question to the Post
+2022-08-11  1 -login successful student
+2022-08-11  1 -Student Test successful 
+2022-08-11  1 -Student Test successful 
+2022-08-11  2 -Student Test successful 
+2022-08-11  3 -Student Test successful 
+2022-08-11  3 -Student Test successful 
+2022-08-11  34  3   1 -Request successful student
+2022-08-11  rithefhshjaston22@gmail.com -New centre added
+2022-08-11  Rithesh Jaston DSa  rithesh@gmail.com -Signup successful student
+2022-08-11  1 -login successful student
+2022-08-11  shaileshgowda045@gmail.com  1faccf33c3abe450d3001cd0212a0130  1    -Forgot  student
+2022-08-11  shaileshgowda045@gmail.com  3d558122fcac9ea5fdc9ee8eccf8f433  1    -Forgot  student
+2022-08-11  ritheshjaston22@gmail.com   260f39bbc102a344034c25c305c25410  -login unsuccessful student
+2022-08-11  shaileshkumar045@gmail.com   3d558122fcac9ea5fdc9ee8eccf8f433  -login unsuccessful student
+2022-08-11  1 -login successful student
+2022-08-11  ritheshjaston22@gmail.com   3a9849218988fee7010ac49ad92112dd  -login unsuccessful student
+2022-08-11  1 -login successful student
+2022-08-11  14 -Centre uccessfully logged in
+2022-08-11  36  34,  Approved  100,    -Centre approoves request of the student
+2022-08-11  36  34,  Approved  100,    -Centre approoves request of the student
+2022-08-11  0 -Student Test successful 
+2022-08-11  0 -Student Test successful 
+2022-08-11  0 -Student Test successful 
+2022-08-11  0 -Student Test successful 
+2022-08-11  0 -Student Test successful 
+2022-08-11  34  0   1 -Request successful student
+2022-08-11  14 -Centre uccessfully logged in
+2022-08-11  1 -Admin successfully Logined
+2022-08-11  1 -Admin successfully Logined
+2022-08-11  1 -login successful student
+2022-08-11  32  1 -Request successful student
+2022-08-11  32  1 -Request successful student
+2022-08-11  32  1 -Request successful student
+2022-08-11  32  1 -Request successful student
+2022-08-11  32  1 -Request successful student
+2022-08-11  33  1 -Request successful student
+2022-08-11  0 -Student Test successful 
+2022-08-11  0 -Student Test successful 
+2022-08-11  0 -Student Test successful 
+2022-08-11  0 -Student Test successful 
+2022-08-11  0 -Student Test successful 
+2022-08-11  34  0   1 -Request successful student
+2022-08-11  0 -Student Test successful 
+2022-08-11  0 -Student Test successful 
+2022-08-11  1 -Student Test successful 
+2022-08-11  2 -Student Test successful 
+2022-08-11  3 -Student Test successful 
+2022-08-11  34  3   1 -Request successful student
+2022-08-11  0 -Student Test successful 
+2022-08-11  1 -Student Test successful 
+2022-08-11  1 -Student Test successful 
+2022-08-11  1 -Student Test successful 
+2022-08-11  1 -Student Test successful 
+2022-08-11  34  1   1 -Request successful student
+2022-08-11  0 -Student Test successful 
+2022-08-11  0 -Student Test successful 
+2022-08-11  0 -Student Test successful 
+2022-08-11  1 -Student Test successful 
+2022-08-11  1 -Student Test successful 
+2022-08-11  34  1   1 -Request successful student
+2022-08-11  0 -Student Test successful 
+2022-08-11  0 -Student Test successful 
+2022-08-11  0 -Student Test successful 
+2022-08-11  0 -Student Test successful 
+2022-08-11  1 -Student Test successful 
+2022-08-11  34  1   1 -Request successful student
+2022-08-11  0 -Student Test successful 
+2022-08-11  0 -Student Test successful 
+2022-08-11  0 -Student Test successful 
+2022-08-11  0 -Student Test successful 
+2022-08-11  0 -Student Test successful 
+2022-08-11  34  0   1 -Request successful student
+2022-08-12  1 -login successful student
+2022-08-12  1 -Admin successfully Logined
+2022-08-12  28 -Job successfully Deleted
+2022-08-12  1 -Admin successfully Logined
+2022-08-12  1 -login successful student
+2022-08-12  33  1 -Request successful student
+2022-08-12  1 -Admin successfully Logined
+2022-08-12  14 -Centre uccessfully logged in
+2022-08-12  1 -Image successfully Updated
+2022-08-12  1 -login successful student
+2022-08-12  1 -login successful student
+2022-08-12  1 -login successful student
+2022-08-12  1 -login successful student
+2022-08-12  sdm@gmail.com -New centre added
+2022-08-12  1 -Admin successfully Logined
+2022-08-12  16 -Centre uccessfully logged in
+2022-08-12  16  Arts  SDM college  2.yr    -Centre added the Post
+2022-08-12  16  Commerce  SDM college  2.yr    -Centre added the Post
+2022-08-12  16  Science  SDM college  2.yr    -Centre added the Post
+2022-08-12  16  Diploma  SDM college  3.yr    -Centre added the Post
+2022-08-12  16  ITI  SDM college  6 Months    -Centre added the Post
+2022-08-13  1 -login successful student
+2022-08-13  1 -Admin successfully Logined
+2022-08-13  1 -Admin successfully Logined
+2022-08-13  14 -Centre uccessfully logged in
+2022-08-13  1 -Admin successfully Logined
+2022-08-13  14 -Centre uccessfully logged in
+2022-08-13  1 -Admin successfully Logined
+2022-08-13  59 -Admin successfully Updated Apti test qution
+2022-08-13  40  32,  Approved  99,    -Centre approoves request of the student
+2022-08-13  40  32,  Approved  99,    -Centre approoves request of the student
+2022-08-13  42  34,  Approved  98,    -Centre approoves request of the student
+2022-08-13  1 -login successful student
+2022-08-13  37  1 -Request successful student
+2022-08-13  1 -login successful student
+2022-08-13  1 -login successful student
+2022-08-13  1 -Admin successfully Logined
+2022-08-18  14 -Centre uccessfully logged in
+2022-08-18  1 -Admin successfully Logined
+2022-08-18  14 -Centre uccessfully logged in
+2022-08-18  1 -login successful student
+2022-08-18  1 -login successful student
+2022-08-18  14 -Centre uccessfully logged in
+2022-08-19  1 -login successful student
+2022-08-19  14 -Centre uccessfully logged in
+2022-08-22  1 -login successful student
+2022-08-22  31  1 -Request successful student
+2022-08-22  1 -Admin successfully Logined
+2022-08-22  14 -Centre uccessfully logged in
+2023-12-03  1 -login successful student
+2023-12-03  1 -login successful student
+2023-12-03  1 -Admin successfully Logined
+2023-12-03  1 -login successful student
+2023-12-03  1 -login successful student
+2023-12-03  1 -Admin successfully Logined
+2023-12-03  14 -Centre uccessfully logged in
