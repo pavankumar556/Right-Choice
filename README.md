@@ -1,15 +1,7 @@
 # Right-Choice (RICH)
 Career Guidance web Application PHP 
 
-RICH is a project which is based on career Guidance. Here, the admin manages all 
-the center and student activities. A Career Guidance System where students can 
-see career opportunities shows various fields available after 
-the SSLC. Next, the system allows users to give a test. It is a series of tests of 
-various general questions. After test completion, a score is calculated for each test. 
-Based on those results the system manipulates and calculates the best career for 
-that student. This result is then emailed to that user and the system determines the 
-distance between the Centre and the student. The system also consists of an admin 
-module. The admin can manage all the activities in the system.
+RICH is a career guidance project 🎓 where the admin oversees all center and student activities 🏫. This Career Guidance System provides students with career opportunities 🌟 and showcases various fields available after SSLC 📚. The system allows users to take a series of general tests 📝. Upon completion, it calculates scores for each test and determines the best career path for the student based on the results 🎯. This career recommendation is then emailed to the student 📧, and the system also calculates the distance between the center and the student 📍. The admin module allows the admin to manage all system activities ⚙️.
 
 <b>Images</b>
 <img src="https://github.com/pavankumar556/Right-Choice/blob/main/photos/p1.png"/>
